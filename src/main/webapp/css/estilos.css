@@ -1,0 +1,147 @@
+html,body{
+    background-color: #98E4FF;
+}
+
+input#nombre{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+}
+input#pass{
+    position: absolute;
+    left: 50px;
+    top: 90px;
+}
+
+input#enviar{
+    position: relative;
+    left: 50px;
+    top: 90px;
+}
+div#login{
+    position: relative;
+    left: 50px;
+    top: 150px;
+    width: 300px; 
+}
+i#iconopersona{
+    position: absolute;
+    left: 20px;
+    top: 30px;
+    font-size: 29px;
+    height: 30px;
+    border-radius: 5px;
+    
+
+}
+a#registrar{
+    position: absolute;
+    left: 130px;
+    top: 140px;
+}
+
+i#iconollave{
+    position:absolute;
+    left: 20px;
+    top: 90px;
+    font-size: 26px;
+    height: 30px;
+    border-radius: 5px;
+}
+iframe#inicio{
+    position: absolute;
+    left: 800px;
+    top: 230px;
+}
+
+footer#otros {
+    display: flex;
+    flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     color: white;
+    }
+footer#inicio{
+    background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+  color: white;
+    }
+i#contact{
+    font-size: 20px;
+}
+
+.fondoanim{
+    background: rgb(255, 179, 79);
+}
+
+.cardpad{
+    padding: 10px;
+    
+}
+
+img{
+    height: 200px;
+    width: 70px;
+}
+.product-item{
+    transition: all 0.4s;
+    
+}
+.imgPerfil {
+    position: relative;
+    top: 50px;
+    left: 85px;
+    width:200px;
+    height:200px;
+    border-radius:150px;
+}
+.carta{
+    position: relative;
+    top: 80px;
+    left: 40px;
+}
+.solicitudes{
+    position: relative;
+    top:-290px;
+    left: 1000px;
+}
+.ofertas{
+    position: relative;
+    top:-190px;
+    left: 1000px;
+
+}
+
+.quierenTuAnim{
+    position: relative;
+    top:-90px;
+    left: 1000px;
+
+}
+#botonCita{
+    position: relative;
+    top:-100px;
+    left: 40px;
+}
+div#Protectora1{
+	width:400px;
+}	
+	div#tele1{
+    position: absolute;
+    right: 20px;
+    top: 80px;
+}
+div#Protectora2{
+	width:400px;
+}
+div#Protectora3{
+	width:400px;
+}
+iframe#protectoras{
+	position: absolute;
+    left: -800px;
+    top: 230px;
+}

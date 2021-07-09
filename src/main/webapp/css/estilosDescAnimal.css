@@ -1,0 +1,107 @@
+html,body{
+    background-color: #98E4FF;
+}
+
+input#nombre{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+}
+input#pass{
+    position: absolute;
+    left: 50px;
+    top: 90px;
+}
+
+input#enviar{
+    position: relative;
+    left: 50px;
+    top: 90px;
+}
+div#login{
+    position: relative;
+    left: 50px;
+    top: 150px;
+    width: 300px; 
+}
+i#iconopersona{
+    position: absolute;
+    left: 20px;
+    top: 30px;
+    font-size: 29px;
+    height: 30px;
+    border-radius: 5px;
+    
+
+}
+
+i#iconollave{
+    position:absolute;
+    left: 20px;
+    top: 90px;
+    font-size: 26px;
+    height: 30px;
+    border-radius: 5px;
+}
+iframe{
+    position: absolute;
+    left: 800px;
+    top: 230px;
+}
+
+footer#otros {
+    display: flex;
+    flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     color: white;
+    }
+footer#inicio{
+    background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+  color: white;
+    }
+i#contact{
+    font-size: 20px;
+}
+
+.fondoanim{
+    background: rgb(255, 179, 79);
+}
+
+.cardpad{
+    padding: 10px;
+    
+}
+
+.product-item{
+    transition: all 0.4s;
+    
+}
+
+img{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    top: 150px;
+    left: 200px;
+}
+table{
+    position: relative;
+    left: 900px;
+    top: -60px;
+    text-align: center;
+    
+}
+td{
+    height: 30px;
+    width: 300px;
+    background-color: rgb(245, 137, 200);
+}
+th{
+    width: 100px;
+    background-color: rgb(155, 155, 155);
+}
